@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* body{
+    font-family: "Poppins";
+} */
+
+p{
+    font-weight: 900px;
+}
+.text-center{
+    position: relative;
+    top: 30px;
+}
+h1{
+    text-align: center;
+    position: relative;
+    top: 40px;
+}
+span{
+    color: blue;
+    font-size: 90px;
+}
+footer{
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+}
